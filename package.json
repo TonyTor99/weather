@@ -25,5 +25,9 @@
     "webpack-cli": "^6.0.1",
     "webpack-dev-server": "^5.2.1"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "css-minimizer-webpack-plugin": "^7.0.2",
+    "mini-css-extract-plugin": "^2.9.2"
+  }
 }
